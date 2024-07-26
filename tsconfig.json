@@ -11,5 +11,5 @@
     // file
     "outDir": "dist"
   },
-  "include": ["types", "src"]
+  "include": ["types", "src", "lib"]
 }
